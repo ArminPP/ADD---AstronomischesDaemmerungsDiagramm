@@ -42,7 +42,7 @@ Das Finetuning erfolgte dann wieder inline in VScode mit `Copilot`.
 
 Führe das Skript aus, um das Diagramm zu generieren:
 ```bash
-python main.py
+python ADD - Astronomisches Daemmerungs Diagramm V1.0.py
 ```
 
 Das Diagramm wird als Bilddatei gespeichert oder direkt angezeigt.
