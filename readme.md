@@ -6,7 +6,9 @@ Dabei wird die jeweilige Helligkeit des Mondes berücksichtigt. Es basiert auf P
 <br>
 <br>
 Hauptfenster:
+<br>
 <img src="DOC/Main Window.png" alt="Hauptfenster" width="300px" style="display: block; margin: 0 auto">
+<br>
 Diagramm:
 <br>
 <img src="DOC/Dämmerungsdiagramm April 2025 (Wien Lat 48.21 Lon 16.36).png" alt="Diagramm"  style="display: block; margin: 0 auto">
@@ -40,7 +42,7 @@ Das Finetuning erfolgte dann wieder inline in VScode mit `Copilot`.
 
 Führe das Skript aus, um das Diagramm zu generieren:
 ```bash
-python main.py
+python ADD - Astronomisches Daemmerungs Diagramm V1.0.py
 ```
 
 Das Diagramm wird als Bilddatei gespeichert oder direkt angezeigt.
