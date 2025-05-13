@@ -31,7 +31,7 @@ Das Finetuning erfolgte dann wieder inline in VScode mit `Copilot`.
 
 1. Klone das Repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ArminPP/ADD---AstronomischesDaemmerungsDiagramm.git
     ```
 2. Installiere die Abhängigkeiten:
     ```bash
